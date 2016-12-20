@@ -1,6 +1,6 @@
 {
   "name": "justonce",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Run a command just once within a given timespan (default 60 seconds)",
   "main": "index.js",
   "scripts": {
