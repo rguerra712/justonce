@@ -1,0 +1,14 @@
+{
+  "name": "justonce",
+  "version": "1.0.0",
+  "description": "Run a command just once within a given timespan (default 60 seconds)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "R. Stephen Guerra",
+  "license": "Apache",
+  "dependencies": {
+    "moment": "^2.17.1"
+  }
+}
