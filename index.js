@@ -4,7 +4,7 @@
 
     let lastTime;
 
-    exports.run = (action, secondsBetweenWaiting, actionIfWaiting) => {
+    exports.run = (action, seconds, actionIfWaiting) => {
         if (!seconds) {
             seconds = 60;
         }
